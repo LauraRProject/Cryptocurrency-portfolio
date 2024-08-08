@@ -36,7 +36,8 @@ This project serves as a live tracker, providing real-time updates on the value 
 - Total Invested Amount ($): The total capital invested in each coin.
 - Bought coin value ($)
 
-![1](https://github.com/user-attachments/assets/fc43fd31-fb24-4ddd-9d85-7e6f44fa4e45)
+![1](https://github.com/user-attachments/assets/1d52cddd-377f-41ee-8824-1a3a218600bc)
+
 
 #### Calculations:
 - Current Value ($): The present market value of the holdings.
@@ -45,8 +46,8 @@ This project serves as a live tracker, providing real-time updates on the value 
 - 24h % Change: The percentage change in the value of the holdings over the last 24 hours.
 - Current Price ($): The latest market price per coin.
 - Daily Return on Investment: Calculated as ROI divided by the number of days the asset has been held.
+![1](https://github.com/user-attachments/assets/c5103e89-c390-4b31-a0d0-08a934d8f0fc)
 
-![1](https://github.com/user-attachments/assets/4d9e2fea-b80b-4700-97a3-5ed00748e164)
 
 ### Portfolio Metrics:
 - COST: The sum of all investments in the portfolio.
