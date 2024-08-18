@@ -3,7 +3,7 @@
 
 ## Overview
 
-The Cryptocurrency Portfolio Tracker is an advanced tool designed to help investors efficiently monitor and manage their cryptocurrency investments
+The Cryptocurrency Portfolio Tracker is an advanced tool designed to help investors efficiently monitor and manage their cryptocurrency investments.
 
 This project serves as a live tracker, providing real-time updates on the value of a diverse range of cryptocurrencies with a single refresh. Tailored for individuals or entities managing multiple coins or tokens, this tool offers a comprehensive overview of your portfolio's performance and assists in making informed future decisions.
 
